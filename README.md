@@ -96,7 +96,7 @@ Building:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+<a href="https://linkedin.com/in/adityatomar29" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://github.com/adityatomar29" target="blank">
