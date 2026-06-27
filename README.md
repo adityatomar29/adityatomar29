@@ -3,7 +3,7 @@
 ========================= -->
 
 <h1 align="center">Hi 👋, I'm Aditya Tomar</h1>
-<h3 align="center"> • Python Developer • Cloud & Automation Learner</h3>
+<h3 align="center">  Python Developer • Cloud & Automation Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+%7C+Cloud+%7C+Automation;Python+Developer;Azure+Certified+(AZ-900);Building+Scalable+and+Reliable+Systems" alt="Typing SVG" />
@@ -25,22 +25,24 @@
 - 💡 Interested in **Backend Development, Infrastructure Automation & System Design**
 - ⚙️ Passionate about building **scalable, reliable, and production-ready applications**
 - 🚀 Exploring modern **DevOps practices and cloud-native technologies**
-- 🎯 Goal: Become a skilled **DevOps & Cloud Engineer**
+- 🎯 Goal: Become a skilled **Software & Cloud Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ DevOps & Cloud
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,azure,bash" />
-</p>
 
 ### 👨‍💻 Programming & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,django,fastapi,streamlit" />
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,azure,bash" />
 </p>
 
 ### 🗄️ Databases
@@ -60,7 +62,7 @@
 </p>
 
 ---
-
+<!--
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -71,7 +73,7 @@
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatomar29&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+-->
 ---
 
 ## 🔥 Current Focus
@@ -109,7 +111,7 @@ Building:
 
 ---
 
-## 💭 DevOps Philosophy
+## 💭 Philosophy
 
 > "Automate everything that can be automated, monitor everything that matters, and continuously improve the system."
 
