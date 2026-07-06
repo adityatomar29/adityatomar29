@@ -9,9 +9,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+%7C+Cloud+%7C+Automation;Python+Developer;Azure+Certified+(AZ-900);Building+Scalable+and+Reliable+Systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityatomar29&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
